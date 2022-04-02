@@ -1,9 +1,9 @@
 # Text on your HUD that shows the current minecraft FPS
 
 Its in the format:
-Fps: [FPS] | [FPS_TICK_MIN]
+Fps: [FPS] | [FPS TICK MIN]
 
-Fps is your raw minecraft Fps
+FPS: Your raw minecraft Fps
 
-Fps_tick_min is the average minimum fps you get in a tick
+FPS TICK MIN: The average minimum fps you get in a tick
 (think of this as what your fps 'feels like')
