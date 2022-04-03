@@ -3,7 +3,7 @@ In the command
 /addwaypoint [name] [x] [y] [z] [r?] [g?] [b?]
 ```
 
-[name]: Name of the waypoint, you can use underscores in here and it will be replace into spaces when rendered.
+[name]: Name of the waypoint, you can use underscores in here and it will be replace into spaces when rendered. This can have color codes in it.
 
 [x]: X coordinate of the waypoint, use 'l' for the location of the block/entity you are looking at, defaults to players location.
 
