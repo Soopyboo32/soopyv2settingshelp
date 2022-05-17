@@ -17,4 +17,4 @@ In the command
 
 [b]: Blue color of the waypoint, defaults to 0.
 
-[area]: The area to show the waypoint in (if the player's tab list doesent show area: [area] it will not render the waypoint)
+[area]: The area to show the waypoint in (if the player's tab list doesent show area: [area] it will not render the waypoint), 'a' for current area
