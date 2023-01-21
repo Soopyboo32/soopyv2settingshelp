@@ -3,4 +3,7 @@ This works by estimating the distance using the pitch of the noise played when y
 #### Common issues causing this to not work:
 - Sounds needs to be on
 - Flame and Firework particles need to be on
-- Particles need to be sent from hypixel (try /particlequality MAXIMUM)
+- Dripping Water/Lava particles need to be on
+- Particles need to be sent from hypixel (try /particlequality EXTREME)
+
+also try /ct reload
